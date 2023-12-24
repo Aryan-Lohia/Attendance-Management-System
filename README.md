@@ -1,16 +1,11 @@
-# attendance_management
+# Attendance Management System using Flutter, NodeJS, TensorFlow
 
-A new Flutter project.
+This attendance management system is a flutter app including the teacher's, student and admin panel to record and track attendance.
+## Flutter
+Using to develop the frontend and integrate the backend.
 
-## Getting Started
+## NodeJS
+Used to create the database in MongoDB and connect it with the app and the server
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TensorFlow
+Used to develop the facial recognition data to track attendance
