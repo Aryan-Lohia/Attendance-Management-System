@@ -1,0 +1,6 @@
+azure-functions
+numpy
+opencv-python
+face-recognition
+dlib
+cmake
